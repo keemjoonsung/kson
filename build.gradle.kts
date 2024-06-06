@@ -9,7 +9,9 @@ version = "1.0-SNAPSHOT"
 repositories {
   mavenCentral()
 }
-
+dependencies {
+    implementation("org.json:json:20220320")
+}
 // Configure Gradle IntelliJ Plugin
 // Read more: https://plugins.jetbrains.com/docs/intellij/tools-gradle-intellij-plugin.html
 intellij {
@@ -18,6 +20,7 @@ intellij {
 
   plugins.set(listOf(/* Plugin Dependencies */))
 }
+
 
 tasks {
   // Set the JVM compatibility versions
