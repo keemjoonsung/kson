@@ -31,8 +31,9 @@ In this example case ,In Book.java, all fields are private and getter and setter
 
 
 ### How to install
-
-uploaded soon
+![스크린샷 2024-06-23 오후 6 36 03](https://github.com/kjs990114/kson/assets/50402527/1f15e0cf-aab0-42d9-85a6-3196e2f3993d)
+<br>
+you can find plugin in Jetbrains' MarketPlace 
 
 
 
